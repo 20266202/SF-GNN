@@ -1,7 +1,0 @@
-numpy
-pandas
-scipy
-scikit-learn
-tqdm
-torch
-torch-geometric
